@@ -1,0 +1,155 @@
+div{
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.text{
+    position:fixed;
+    top:30px;
+    left: 550px;
+    outline: black;
+    width: 175px;
+}
+.Home{
+    position:fixed;
+    top:10px;
+    right: 180px;
+    font-style: normal;
+    font-size: large;
+}
+.About
+{
+    position:fixed;
+    top:10px;
+    right: 100px;
+    font-style: normal;
+    font-size: large;
+}
+.Contact
+{
+    position:fixed;
+    top:10px;
+    right: 15px;
+    font-style: normal;
+    font-size: large;
+}
+.Lorem{
+    font-size:x-large;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    position:fixed;
+    top:100px;
+    left: 400px;
+}
+.Lorem1{}
+
+.Lorem2
+{
+    color: rgb(44, 44, 213);
+}
+.Para1
+{
+    position: fixed;
+    top: 170px;
+    left: 300px;
+    text-align: center ;
+    
+}
+
+.button1
+{
+    position: fixed;
+    top:250px; 
+    left:530px;
+    height: 40px;
+    width: 120px;
+    
+    background-color: rgb(50, 50, 163);
+    color:white;
+    border: 0ch;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button2
+{
+    position: fixed;
+    top:250px; 
+    left:670px;
+    height: 40px;
+    width: 120px;
+    background-color:white;
+    color:blue;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 8px;
+    cursor:pointer;
+}
+.HTML
+{
+    position: fixed;
+    bottom: 300px;
+    left: 100px;
+}
+.Para2
+{
+    position:fixed;
+    bottom:200px;
+    left: 100px;
+}
+.Links
+{
+    position:fixed;
+    bottom:0px;
+    left:550px;
+    text-align: center;
+}
+
+.img
+{
+    position:fixed;
+    bottom:150px;
+    left:890px;
+    
+}
+.iframe
+{
+    position:fixed;
+    left:500px;
+    top:330px;
+}
+.htmlif
+{
+    position:fixed;
+    top:290px;
+    left:500px;
+}
+.awo
+{
+    position:fixed;
+    top: 8px;
+    left:15px;
+    font-size: 20;
+}
+.Table1,
+th,td
+{
+    border: 1px solid black;
+    text-align: left;
+    border-collapse: collapse;
+    padding: 10px ;
+   
+    
+}
+.Table
+{
+    position: fixed;
+    bottom: 110px;
+    left: 100px
+}
+caption
+{
+    text-align: left;
+}
